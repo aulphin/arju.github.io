@@ -1,3 +1,3 @@
 # Personal Website
 
-© 2022 Swapnil S. Mane. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+© 2023 Arju Bano. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
