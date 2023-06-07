@@ -1,6 +1,6 @@
 
 
-# Welcome to Arju !
+# Welcome to Swapnil!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,13 +9,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arju Bano"
+title                    : "Swapnil S. Mane"
 title_separator          : "-"
-name                     : &name "Arju Bano"
-description              : &description "PhD Research Scholar at Indian Institute of Technology(Indian School of Mines), Dhanbad"
-url                      : https://aulphin/arju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Swapnil S. Mane"
+description              : &description "PhD Research Scholar at Indian Institute of Technology, Jodhpur"
+url                      : https://SwapnilSMane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arju.github.io"
+repository               : "SwapnilSMane.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,15 +87,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arju Bano"
+  name             : "Swapnil S. Mane"
   avatar           : "profile.jpg"
-  bio              : "Research Scholar at Indian Institute of Technology(Indian School of Mines),Dhanbad"
-  location         : "IIT Dhanbad, India"
+  bio              : "PMRF Research Scholar at Indian Institute of Technology, Jodhpur"
+  location         : "IIT Jodhpur, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=emuoEVkAAAAJ&hl=en"
-  email            : "22dr0024@iitism.ac.in"
-  researchgate     : ""
+  email            : "mane.1@iitj.ac.in"
+  researchgate     : "https://www.researchgate.net/profile/Swapnil-Mane-10"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,20 +103,20 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "aulphin"
+  github           : "SwapnilSMane"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
+  linkedin         : "swapnil-s-mane-168567136"
   orcid            : "https://orcid.org/0000-0002-8234-4557"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "mswapnil108"
   vine             :
   weibo            :
   xing             :
