@@ -1,6 +1,6 @@
 
 
-# Welcome to Swapnil!
+# Welcome to Arju !
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,13 +9,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swapnil S. Mane"
+title                    : "Arju Bano"
 title_separator          : "-"
-name                     : &name "Swapnil S. Mane"
-description              : &description "PhD Research Scholar at Indian Institute of Technology, Jodhpur"
-url                      : https://SwapnilSMane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Arju Bano"
+description              : &description "PhD Research Scholar at Indian Institute of Technology(Indian School of Mines), Dhanbad"
+url                      : https://aulphin/arju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SwapnilSMane.github.io"
+repository               : "arju.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,12 +89,12 @@ analytics:
 author:
   name             : "Swapnil S. Mane"
   avatar           : "profile.jpg"
-  bio              : "PMRF Research Scholar at Indian Institute of Technology, Jodhpur"
-  location         : "IIT Jodhpur, India"
+  bio              : "Research Scholar at Indian Institute of Technology(Indian School of Mines),Dhanbad"
+  location         : "IIT Dhanbad, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=emuoEVkAAAAJ&hl=en"
-  email            : "mane.1@iitj.ac.in"
+  email            : "22dr0024@iitism.ac.in"
   researchgate     : "https://www.researchgate.net/profile/Swapnil-Mane-10"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "SwapnilSMane"
+  github           : "aulphin"
   google_plus      :
   keybase          :
   instagram        :
