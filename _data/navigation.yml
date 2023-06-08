@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "PROJECTS"
+    url: /projects/   
+    
+  - title: "PUBLICATIONS"
+    url: /publications/
+    
+  - title: "EXPERIENCE"
+    url: /experience/    
+    
+  - title: "ACTIVITIES AND AWARDS"
+    url: /awards/
+  
+  - title: "CV"
+    url: /cv/
+    
+  - title: "GALLERY"
+    url: /gallery/
+    
+  - title: "CONTACT"
+    url: /contact/
