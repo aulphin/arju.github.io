@@ -9,13 +9,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Swapnil S. Mane"
+title                    : "Arju Bano"
 title_separator          : "-"
-name                     : &name "Swapnil S. Mane"
-description              : &description "PhD Research Scholar at Indian Institute of Technology, Jodhpur"
-url                      : https://SwapnilSMane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Arju Bano"
+description              : &description "PhD Research Scholar at Indian Institute of Technology(ISM), Dhanbad"
+url                      : 
+#https://SwapnilSMane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SwapnilSMane.github.io"
+repository               : "Arju.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
