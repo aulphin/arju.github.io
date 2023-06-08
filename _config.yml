@@ -11,12 +11,11 @@
 locale                   : "en-US"
 title                    : "Arju Bano"
 title_separator          : "-"
-name                     : &name "Arju Bano"
-description              : &description "PhD Research Scholar at Indian Institute of Technology(ISM), Dhanbad"
-url                      : 
-#https://SwapnilSMane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Swapnil S. Mane"
+description              : &description "PhD Research Scholar at Indian Institute of Technology, Jodhpur"
+url                      : https://SwapnilSMane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Arju.github.io"
+repository               : "SwapnilSMane.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,10 +87,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arju Bano"
+  name             : "Swapnil S. Mane"
   avatar           : "profile.jpg"
-  bio              : "PMRF Research Scholar at Indian Institute of Technology(ISM), Dhanbad"
-  location         : "IIT(ISM), India"
+  bio              : "PMRF Research Scholar at Indian Institute of Technology, Jodhpur"
+  location         : "IIT Jodhpur, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=emuoEVkAAAAJ&hl=en"
