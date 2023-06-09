@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Roboto+Slab:wght@300;400&display=swap');
 
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DO NOT TOUCH XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 
 body{
 
@@ -11,7 +12,6 @@ body{
 /* .container-arju{
     max-width: 1440px !important;
 } */
-
 
 a{
 
@@ -156,7 +156,6 @@ header .mobile-toggler{
 
 .modal-body .modal-line:hover{
 
-    /* color: #fefefe; */
     border-bottom: 1px solid #fefefe;
 }
 
@@ -219,27 +218,16 @@ header .mobile-toggler{
 .font-w-6{
     font-weight: 600;
 }
-
-.top-bar {
-    background-color:#64d6f4;
-    color: #fff;
-    height: 30px;
-    line-height: 30px;
-  }
-.top-bar i {
-    color:black;
-    margin-right: 5px;
-}
+/* 
 .social-icons i{
     font-size: 20px;
     margin-right: 10px;
 }
 .social-icon a{
     margin-right: 20px;
-}
+} */
 
 .navbar_h{
-    /* position: fixed; */
     top: 0;
     left: 0;
     right: 0;
@@ -252,6 +240,7 @@ header .mobile-toggler{
     justify-content:space-between;
 }
 
+/* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DO NOT TOUCH XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 
 /******************************************
                 section-1 
@@ -471,53 +460,25 @@ font-weight: 500;
     color: #000;
 
 }
-
-
-
-
-
-
-
-
-
 /*************** Arju CSS *****************/
 
-
   .sidebar-section {
-    /* position: absolute; */
     height: 100%;
     width: 100%;
   }
   
   
   .sidebar-item {
-      /* position: absolute; */
-      /* top: 0; */
-      /* left: 0; */
       width: 100%;
       height: 100%;
-      /* Position the items */
-      /* &:nth-child(2) { top: 25%; }
-      &:nth-child(3) { top: 50%; }
-      &:nth-child(4) { top: 75%; } */
   }
-  
   
   .make-me-sticky {
     /* position: -webkit-sticky; */
       position: sticky;
       top: 0;
-      
-    /* padding: 0 15px; */
   }
-  
-  
-  
-  /* Ignore This, just coloring */
-  body {
-    background: #fff;
-  }
-  
+
   article {
     background: #fff;
     border-radius: 12px;
@@ -527,8 +488,6 @@ font-weight: 500;
   
   .title-section, .content-section, .sidebar-section {
     background: #fff;
-    /* border-radius: 12px;
-    border: solid 10px #f1f1f1;  */
   }
   
   .title-section {
@@ -539,21 +498,7 @@ font-weight: 500;
   
   .content-section h2 {
     text-align: center;
-    /* margin: 0; */
-    /* padding-top: 200px; */
   }
-  
-  .sidebar-item {
-    /* text-align: center; */
-  }
-  /* .sidebar-item  h3 {
-      background: gold;
-      max-width: 100%;
-      margin: 0 auto;
-      padding: 50px 0 100px; 
-      border-bottom: solid 1px #fff;
-    } */
-
 
     /* ***********************author section *********************** */
     .author_avrat img{
