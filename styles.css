@@ -218,6 +218,9 @@ header .mobile-toggler{
 .font-w-6{
     font-weight: 600;
 }
+.cont_font{
+    font-size: 20px;
+}
 /* 
 .social-icons i{
     font-size: 20px;
@@ -533,3 +536,4 @@ font-weight: 500;
     .author_biography table li span{
         color: red;
     }
+    
