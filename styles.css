@@ -221,6 +221,9 @@ header .mobile-toggler{
 .cont_font{
     font-size: 20px;
 }
+a{
+    /* color: #427ee0; */
+}
 /* 
 .social-icons i{
     font-size: 20px;
@@ -482,11 +485,11 @@ font-weight: 500;
       top: 0;
   }
 
-  article {
+  /* article {
     background: #fff;
     border-radius: 12px;
     padding: 25px 0 0;
-  }
+  } */
   
   
   .title-section, .content-section, .sidebar-section {
