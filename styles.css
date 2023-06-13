@@ -28,8 +28,6 @@ header{
 
     width: 100vw;
     height: 80px;
-    /* background-color: transparent; */
-    /* border-bottom: 1px solid grey; */
     display: flex;
     align-items: center;
 }
@@ -223,17 +221,6 @@ header .mobile-toggler{
 .cont_font{
     font-size: 20px;
 }
-a{
-    /* color: #427ee0; */
-}
-/* 
-.social-icons i{
-    font-size: 20px;
-    margin-right: 10px;
-}
-.social-icon a{
-    margin-right: 20px;
-} */
 
 .navbar_h{
     top: 0;
@@ -308,6 +295,7 @@ a{
 
     .page_content a{
         font-weight: 600;
+        color: #427ee0;
     }
 
     .author_biography table{
@@ -330,3 +318,9 @@ a{
     .a_col{
         color: #427ee0;
     }
+
+
+
+    /* .prjct_card{
+        border-radius: 2px solid black;
+    } */
