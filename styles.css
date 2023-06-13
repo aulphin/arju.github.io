@@ -235,6 +235,18 @@ header .mobile-toggler{
     justify-content:space-between;
 }
 
+/*************** media query for nav menu  ****************/
+@media(max-width: 1400px){
+    header .item{
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 1200px){
+    header .item{
+        font-size: 14px;
+    }
+}
 /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX DO NOT TOUCH XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 
 /*************** Arju CSS *****************/
@@ -281,7 +293,8 @@ header .mobile-toggler{
     .author_avrat img{
         height: 180px;
         border-radius: 50%;
-        border: 0.5px solid grey;
+        padding: 5px;
+        border: 0.1px solid #f2f3f3;
     }
 
     .author_info{
@@ -319,8 +332,9 @@ header .mobile-toggler{
         color: #427ee0;
     }
 
+    .contact_page span::after {
+        content: '\a';
+        white-space: pre;
+    }
 
 
-    /* .prjct_card{
-        border-radius: 2px solid black;
-    } */
