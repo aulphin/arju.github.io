@@ -96,6 +96,10 @@ header .mobile-toggler{
     font-size: 30px;
 }
 
+.nav-wraper {
+    border-bottom: 2px solid #f2f3f3;
+}
+
 /*************** modal ***************/
 
 .modal-dialog{
@@ -336,5 +340,3 @@ header .mobile-toggler{
         content: '\a';
         white-space: pre;
     }
-
-
