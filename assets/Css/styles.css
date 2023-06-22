@@ -340,3 +340,12 @@ header .mobile-toggler{
         content: '\a';
         white-space: pre;
     }
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+        grid-gap : 10px;
+    }
+    .gallery img{
+        width: 100%;
+    }
