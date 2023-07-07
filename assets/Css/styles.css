@@ -200,23 +200,6 @@ header .mobile-toggler{
     color: #fefefe;
 }
 
-.mobile-modal-footer{
-
-    width: 87%;
-    margin: 0 auto;
-    padding: 20% 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 25px;
-    color: #64d6f4;
-}
-
-.mobile-modal-footer i:hover{
-
-    color: #fefefe;
-}
-
 
 /***************** font weight  **************/
 .font-w-6{
